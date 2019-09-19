@@ -1,0 +1,14 @@
+#una{
+    width: 100%;
+    height: auto;
+}
+#duha{
+    width: 50%;
+    
+}
+#tulo{
+    width: 49%;
+}
+li{
+    list-style-position: inside;
+}

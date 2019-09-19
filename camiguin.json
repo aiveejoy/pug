@@ -1,0 +1,11 @@
+{
+    "name":"Province of Camiguin",
+    "short_name":"camiguin",
+    "link1":"/images/c1.jpg",
+    "link2":"/images/c2.jpg",
+    "link3":"/images/c3.jpg",
+    
+    "island_group":"Mindanao",
+    "population":"76.5 million",
+    "delicacies":["Lechon","Danggit","Mango"]
+}

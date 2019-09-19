@@ -1,0 +1,11 @@
+{
+    "name":"Province of Bukidnon",
+    "short_name":"bukidnon",
+    "link1":"/images/buk1.jpg",
+    "link2":"/images/buk2.jpg",
+    "link3":"/images/buk3.jpg",
+    
+    "island_group":"Mindanao",
+    "population":"76.5 million",
+    "delicacies":["Lechon","Danggit","Mango"]
+}

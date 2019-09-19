@@ -1,0 +1,11 @@
+{
+    "name":"Province of Bohol",
+    "short_name":"bohol",
+    "link1":"/images/bo1.jpg",
+    "link2":"/images/bo2.jpg",
+    "link3":"/images/bo3.jpg",
+    
+    "island_group":"Visayas",
+    "population":"76.5 million",
+    "delicacies":["Lechon","Danggit","Mango"]
+}
