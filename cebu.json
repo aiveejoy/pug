@@ -1,11 +1,10 @@
 {
     "name":"Province of Cebu",
     "short_name":"cebu",
-    "link1":"/images/cebu1.jpg",
-    "link2":"/images/cebu2.jpg",
-    "link3":"/images/cebu3.jpg",
-    
+    "images":["/images/cebu1.jpg","/images/cebu2.jpg","/images/cebu3.jpg"],  
     "island_group":"Visayas",
-    "population":"76.5 million",
-    "delicacies":["Lechon","Danggit","Mango"]
+    "population":"2,377,588",
+    "delicacies":["Lechon","Danggit","Mango"],
+    "write_up":"Cebu is a province of the Philippines, in the country’s Central Visayas region, comprising Cebu Island and more than 150 smaller surrounding islands and islets. Its prosperous port capital, Cebu City, retains landmarks from its 16th-century Spanish colonial past, including the Basilica Minore del Santo Niño church and triangular Fort San Pedro. Tops, an observation deck on Mt. Busay, has sweeping views over the city. ",
+    "rating":0
 }

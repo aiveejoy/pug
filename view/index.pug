@@ -6,17 +6,30 @@ html
 
     body
         center
+            br
+            br
             h1=name
             div
-                img(src=link1)#una
-                img(src=link2)#duha
-                img(src=link3)#tulo
+                img(src=images[0])#una
+                img(src=images[1])#duha
+                img(src=images[2])#tulo
             br
             br
+            h2="Delicacies"
             ul
                 each item in delicacies
                     li=item
             label="Major Island: " +island_group
+            br
+            br
+            p=write_up
+            br
+            br
+            button="1"
+            button="2"
+            button="3"
+            button="4"
+            button="5"
 
 
 

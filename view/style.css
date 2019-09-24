@@ -1,14 +1,23 @@
 #una{
-    width: 100%;
+    width: 70%;
     height: auto;
+    border-radius: 50%;
 }
 #duha{
-    width: 50%;
+    width: 35%;
+    height: 50%;
+    border-radius: 8px;
     
 }
 #tulo{
-    width: 49%;
+    width: 34%;
+    height: 50%;
+    border-radius: 8px;
 }
 li{
     list-style-position: inside;
+}
+button{
+    font-size: 24px;
+    border-radius: 50%;
 }

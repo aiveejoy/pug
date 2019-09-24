@@ -1,11 +1,10 @@
 {
     "name":"Province of Bukidnon",
     "short_name":"bukidnon",
-    "link1":"/images/buk1.jpg",
-    "link2":"/images/buk2.jpg",
-    "link3":"/images/buk3.jpg",
-    
+    "images":["/images/buk1.jpg","/images/buk2.jpg","/images/buk3.jpg"],
     "island_group":"Mindanao",
-    "population":"76.5 million",
-    "delicacies":["Lechon","Danggit","Mango"]
+    "population":"1,415,226",
+    "delicacies":["Lechon","Danggit","Mango"],
+    "write_up":"The name Bukidnon means highlander or mountain dweller. Occupying a wide plateau in the north central part of the island of Mindanao, the province is considered to be the food basket of the region, being the major producer of rice and corn. Products from plantations in the province also include pineapples, bananas and sugarcane.",
+    "rating":0
 }

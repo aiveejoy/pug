@@ -1,11 +1,10 @@
 {
     "name":"Province of Davao",
     "short_name":"davao",
-    "link1":"/images/cebu1.jpg",
-    "link2":"/images/cebu2.jpg",
-    "link3":"/images/cebu3.jpg",
-    
+    "images":["/images/cebu1.jpg","/images/cebu2.jpg","/images/cebu3.jpg"],    
     "island_group":"Visayas",
-    "population":"76.5 million",
-    "delicacies":["Lechon","Danggit","Mango"]
+    "population":"1 796 574",
+    "delicacies":["Lechon","Danggit","Mango"],
+    "write_up":"Davao City, on the southern Philippine island of Mindanao, is a coastal commercial center near 2,954m-high Mount Apo, the country’s highest peak. In the city center, People’s Park is known for its colorful indigenous sculptures and lighted fountains. It's also home to Durian Dome, named after the pungent, spiky fruit that grows in abundance on Mindanao. The Davao River cuts through the city. ",
+    "rating":0
 }
